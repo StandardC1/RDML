@@ -2,3 +2,4 @@
 
 # Rust build files, usually.
 target/
+docs/
