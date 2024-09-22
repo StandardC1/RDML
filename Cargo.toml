@@ -1,6 +1,6 @@
 [workspace]
 
-members = [
+members = [ 
+    "crates/input_output",
     "crates/parser",
-    "crates/rdml-api"
 ]

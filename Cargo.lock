@@ -3,9 +3,12 @@
 version = 3
 
 [[package]]
-name = "parser"
+name = "input_output"
 version = "0.1.0"
 
 [[package]]
-name = "rdml-api"
+name = "parser"
 version = "0.1.0"
+dependencies = [
+ "input_output",
+]
