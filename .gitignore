@@ -1,0 +1,4 @@
+# Stuff I don't want in here.
+
+# Rust build files, usually.
+target/
